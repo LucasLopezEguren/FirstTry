@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+// Autor Lucas Lopez
+
 namespace Library.BusinessLogic.Entidades
 {
     public class Subject
