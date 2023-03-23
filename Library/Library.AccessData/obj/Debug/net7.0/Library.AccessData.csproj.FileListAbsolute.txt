@@ -1,0 +1,32 @@
+C:\Users\lucas.le\source\repos\Library\Library.AccessData\bin\Debug\net7.0\Library.AccessData.deps.json
+C:\Users\lucas.le\source\repos\Library\Library.AccessData\bin\Debug\net7.0\Library.AccessData.dll
+C:\Users\lucas.le\source\repos\Library\Library.AccessData\bin\Debug\net7.0\Library.AccessData.pdb
+C:\Users\lucas.le\source\repos\Library\Library.AccessData\bin\Debug\net7.0\Library.BusinessLogic.dll
+C:\Users\lucas.le\source\repos\Library\Library.AccessData\bin\Debug\net7.0\Library.BusinessLogic.pdb
+C:\Users\lucas.le\source\repos\Library\Library.AccessData\obj\Debug\net7.0\Library.AccessData.csproj.AssemblyReference.cache
+C:\Users\lucas.le\source\repos\Library\Library.AccessData\obj\Debug\net7.0\Library.AccessData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.le\source\repos\Library\Library.AccessData\obj\Debug\net7.0\Library.AccessData.AssemblyInfoInputs.cache
+C:\Users\lucas.le\source\repos\Library\Library.AccessData\obj\Debug\net7.0\Library.AccessData.AssemblyInfo.cs
+C:\Users\lucas.le\source\repos\Library\Library.AccessData\obj\Debug\net7.0\Library.AccessData.csproj.CoreCompileInputs.cache
+C:\Users\lucas.le\source\repos\Library\Library.AccessData\obj\Debug\net7.0\Library.AccessData.csproj.CopyComplete
+C:\Users\lucas.le\source\repos\Library\Library.AccessData\obj\Debug\net7.0\Library.AccessData.dll
+C:\Users\lucas.le\source\repos\Library\Library.AccessData\obj\Debug\net7.0\refint\Library.AccessData.dll
+C:\Users\lucas.le\source\repos\Library\Library.AccessData\obj\Debug\net7.0\Library.AccessData.pdb
+C:\Users\lucas.le\source\repos\Library\Library.AccessData\obj\Debug\net7.0\ref\Library.AccessData.dll
+C:\Users\lucas.le\source\repos\Library v2\Library\Library.AccessData\bin\Debug\net7.0\Library.AccessData.deps.json
+C:\Users\lucas.le\source\repos\Library v2\Library\Library.AccessData\bin\Debug\net7.0\Library.AccessData.dll
+C:\Users\lucas.le\source\repos\Library v2\Library\Library.AccessData\bin\Debug\net7.0\Library.AccessData.pdb
+C:\Users\lucas.le\source\repos\Library v2\Library\Library.AccessData\bin\Debug\net7.0\Library.BusinessLogic.dll
+C:\Users\lucas.le\source\repos\Library v2\Library\Library.AccessData\bin\Debug\net7.0\Library.BusinessLogic.pdb
+C:\Users\lucas.le\source\repos\Library v2\Library\Library.AccessData\obj\Debug\net7.0\Library.AccessData.csproj.AssemblyReference.cache
+C:\Users\lucas.le\source\repos\Library v2\Library\Library.AccessData\obj\Debug\net7.0\Library.AccessData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.le\source\repos\Library v2\Library\Library.AccessData\obj\Debug\net7.0\Library.AccessData.AssemblyInfoInputs.cache
+C:\Users\lucas.le\source\repos\Library v2\Library\Library.AccessData\obj\Debug\net7.0\Library.AccessData.AssemblyInfo.cs
+C:\Users\lucas.le\source\repos\Library v2\Library\Library.AccessData\obj\Debug\net7.0\Library.AccessData.csproj.CoreCompileInputs.cache
+C:\Users\lucas.le\source\repos\Library v2\Library\Library.AccessData\obj\Debug\net7.0\Library.AccessData.csproj.CopyComplete
+C:\Users\lucas.le\source\repos\Library v2\Library\Library.AccessData\obj\Debug\net7.0\Library.AccessData.dll
+C:\Users\lucas.le\source\repos\Library v2\Library\Library.AccessData\obj\Debug\net7.0\refint\Library.AccessData.dll
+C:\Users\lucas.le\source\repos\Library v2\Library\Library.AccessData\obj\Debug\net7.0\Library.AccessData.pdb
+C:\Users\lucas.le\source\repos\Library v2\Library\Library.AccessData\obj\Debug\net7.0\ref\Library.AccessData.dll
+C:\Users\lucas.le\source\repos\Library v2\Library\Library.AccessData\bin\Debug\net7.0\Library.AccessData.runtimeconfig.json
+C:\Users\lucas.le\source\repos\Library v2\Library\Library.AccessData\obj\Debug\net7.0\Library.AccessData.genruntimeconfig.cache

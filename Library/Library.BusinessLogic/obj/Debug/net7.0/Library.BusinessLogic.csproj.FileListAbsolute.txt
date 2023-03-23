@@ -1,0 +1,26 @@
+C:\Users\lucas.le\source\repos\Library\Library.BusinessLogic\bin\Debug\net7.0\Library.BusinessLogic.deps.json
+C:\Users\lucas.le\source\repos\Library\Library.BusinessLogic\bin\Debug\net7.0\Library.BusinessLogic.dll
+C:\Users\lucas.le\source\repos\Library\Library.BusinessLogic\bin\Debug\net7.0\Library.BusinessLogic.pdb
+C:\Users\lucas.le\source\repos\Library\Library.BusinessLogic\obj\Debug\net7.0\Library.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\lucas.le\source\repos\Library\Library.BusinessLogic\obj\Debug\net7.0\Library.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.le\source\repos\Library\Library.BusinessLogic\obj\Debug\net7.0\Library.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\lucas.le\source\repos\Library\Library.BusinessLogic\obj\Debug\net7.0\Library.BusinessLogic.AssemblyInfo.cs
+C:\Users\lucas.le\source\repos\Library\Library.BusinessLogic\obj\Debug\net7.0\Library.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\lucas.le\source\repos\Library\Library.BusinessLogic\obj\Debug\net7.0\Library.BusinessLogic.dll
+C:\Users\lucas.le\source\repos\Library\Library.BusinessLogic\obj\Debug\net7.0\refint\Library.BusinessLogic.dll
+C:\Users\lucas.le\source\repos\Library\Library.BusinessLogic\obj\Debug\net7.0\Library.BusinessLogic.pdb
+C:\Users\lucas.le\source\repos\Library\Library.BusinessLogic\obj\Debug\net7.0\ref\Library.BusinessLogic.dll
+C:\Users\lucas.le\source\repos\Library v2\Library\Library.BusinessLogic\obj\Debug\net7.0\Library.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\lucas.le\source\repos\Library v2\Library\Library.BusinessLogic\obj\Debug\net7.0\Library.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.le\source\repos\Library v2\Library\Library.BusinessLogic\obj\Debug\net7.0\Library.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\lucas.le\source\repos\Library v2\Library\Library.BusinessLogic\obj\Debug\net7.0\Library.BusinessLogic.AssemblyInfo.cs
+C:\Users\lucas.le\source\repos\Library v2\Library\Library.BusinessLogic\obj\Debug\net7.0\Library.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\lucas.le\source\repos\Library v2\Library\Library.BusinessLogic\obj\Debug\net7.0\Library.BusinessLogic.dll
+C:\Users\lucas.le\source\repos\Library v2\Library\Library.BusinessLogic\obj\Debug\net7.0\refint\Library.BusinessLogic.dll
+C:\Users\lucas.le\source\repos\Library v2\Library\Library.BusinessLogic\obj\Debug\net7.0\Library.BusinessLogic.pdb
+C:\Users\lucas.le\source\repos\Library v2\Library\Library.BusinessLogic\bin\Debug\net7.0\Library.BusinessLogic.deps.json
+C:\Users\lucas.le\source\repos\Library v2\Library\Library.BusinessLogic\bin\Debug\net7.0\Library.BusinessLogic.dll
+C:\Users\lucas.le\source\repos\Library v2\Library\Library.BusinessLogic\bin\Debug\net7.0\Library.BusinessLogic.pdb
+C:\Users\lucas.le\source\repos\Library v2\Library\Library.BusinessLogic\obj\Debug\net7.0\ref\Library.BusinessLogic.dll
+C:\Users\lucas.le\source\repos\Library v2\Library\Library.BusinessLogic\bin\Debug\net7.0\Library.BusinessLogic.runtimeconfig.json
+C:\Users\lucas.le\source\repos\Library v2\Library\Library.BusinessLogic\obj\Debug\net7.0\Library.BusinessLogic.genruntimeconfig.cache
