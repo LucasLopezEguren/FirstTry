@@ -1,4 +1,9 @@
-cualquier duda manden mail a lucaslopezeguren@gmail.com con M3E en el asunto. otro cambio.
+cualquier duda manden mail a lucaslopezeguren@gmail.com con M3E en el asunto.
 
 Nombre del alumno - NRO Estudiante
+<<<<<<< HEAD
 Diego Fagundez - 289694
+=======
+
+Virginia Rodriguez - 292711
+>>>>>>> 786faec69526d43430791cc1c2986e71e89f768e
