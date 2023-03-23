@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 // Autor Lucas Lopez
-
+// Diego Fagundez
 namespace Library.BusinessLogic.Entidades
 {
     public class Subject
