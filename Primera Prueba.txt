@@ -6,4 +6,8 @@ Diego Fagundez - 289694
 =======
 
 Virginia Rodriguez - 292711
+<<<<<<< HEAD
 >>>>>>> 786faec69526d43430791cc1c2986e71e89f768e
+=======
+Jordi Otero - 276719
+>>>>>>> 43896f0113b99287311122e7a7a0896a07a5f5d0
